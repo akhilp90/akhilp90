@@ -35,7 +35,7 @@ Check out my projects and feel free to connect! 🚀</p>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="AWS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
   <img width="12" />
@@ -53,12 +53,13 @@ Check out my projects and feel free to connect! 🚀</p>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Seaborn_logo.svg" height="40" alt="Seaborn" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="Seaborn" />
   <img width="12" />
   <img src="https://www.chartjs.org/img/chartjs-logo.svg" height="40" alt="Chart.js" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" height="40" alt="Plotly" />
 </div>
+
 
 
 ###
