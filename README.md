@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey! I'm Akhilesh, a pre-final year ISE student at Ramaiah Institute of Technology, My interests lie in Machine Learning, Data Science, and Backend Development.<br><br>🔹 I enjoy building projects that blend ML, DS, and backend technologies, solving real-world problems with data-driven solutions.<br>🔹 My goal is to develop scalable and efficient systems, leveraging AI and backend technologies to create impactful applications.<br><br>Check out my projects and feel free to connect! 🚀</p>
+<p align="left">Hey! I'm Akhilesh, a pre-final year ISE student at Ramaiah Institute of Technology. My interests lie in Machine Learning, Data Science, and Backend Development.<br><br>🔹 I enjoy building projects that blend ML, DS, and backend technologies, solving real-world problems with data-driven solutions.<br>🔹 My goal is to develop scalable and efficient systems, leveraging AI and backend technologies to create impactful applications.<br><br>Check out my projects and feel free to connect! 🚀</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I enjoy exploring new tech, playing strategy games, and geeking out over AI 🚀.<br>📚 I'm currently learning machine learning, Data Science, MLOps etc..<br>🎯 Goals :  Aspiring to push the boundaries of ML and Data Science for solving complex industry challenges.<br>🎲 Fun fact : I make my ML models work... eventually 🤖🔥.</p>
+<p align="left">✨ I enjoy exploring new tech, playing strategy games, and geeking out over AI 🚀.<br>📚 I'm currently learning machine learning, Data Science, MLOps, etc.<br>🎯 Goals: Aspiring to push the boundaries of ML and Data Science for solving complex industry challenges.<br>🎲 Fun fact: I make my ML models work... eventually 🤖🔥.</p>
 
 ###
 
@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
@@ -57,6 +57,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akhilp90&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilp90&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilp90&theme=dracula" height="150" alt="streak graph" />
 </div>
 
 ###
@@ -72,7 +73,7 @@
   <a href="akhileshpatil" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="patilakhi9090@gmail.com" target="_blank">
+  <a href="mailto:patilakhi9090@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
@@ -82,5 +83,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/akhilp90/count.svg?"  />
 </div>
-
-###
