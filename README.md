@@ -56,8 +56,6 @@ Check out my projects and feel free to connect! 🚀</p>
 
 <h2 align="left">📬 Contact Me</h2>
 
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/akhil-a39253i8/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
@@ -65,9 +63,10 @@ Check out my projects and feel free to connect! 🚀</p>
   <a href="https://discord.com/users/akhileshpatil" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
   </a>
-  <a href="mailto:patilakhi9090@gmail.com">patilakhi9090@gmail.com</a>
+  <a href="mailto:patilakhi9090@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
   </a>
+  <span style="font-size: 18px; margin-left: 10px;">patilakhi9090@gmail.com</span>
 </div>
 
 ###
