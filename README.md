@@ -5,8 +5,8 @@
 <p align="left">
 Hey! I'm Akhilesh, a pre-final year ISE student at Ramaiah Institute of Technology.  
 My interests lie in Machine Learning, Data Science, and Backend Development.  
-🔹 I enjoy building projects that blend ML, DS, and backend technologies, solving real-world problems with data-driven solutions.  
-🔹 My goal is to develop scalable and efficient systems, leveraging AI and backend technologies to create impactful applications.  
+🔹 I enjoy building projects that blend ML, DS, and backend technologies, solving real-world problems with data-driven solutions.<br>  
+🔹 My goal is to develop scalable and efficient systems, leveraging AI and backend technologies to create impactful applications.<br>
 <br>Check out my projects and feel free to connect! 🚀
 </p>
 
