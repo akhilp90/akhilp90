@@ -2,31 +2,25 @@
 
 ###
 
-<p align="left">
-Hey! I'm Akhilesh, a pre-final year ISE student at Ramaiah Institute of Technology.  
-<br><br>
-🔹 I enjoy building projects that blend ML, DS, and backend technologies, solving real-world problems with data-driven solutions.  
-🔹 My goal is to develop scalable and efficient systems, leveraging AI and backend technologies to create impactful applications.  
-<br>
-Check out my projects and feel free to connect! 🚀
-</p>
+<p align="left">Hey! I'm Akhilesh, a pre-final year ISE student at Ramaiah Institute of Technology. My interests lie in Machine Learning, Data Science, and Backend Development.<br><br>
+🔹 I enjoy building projects that blend ML, DS, and backend technologies, solving real-world problems with data-driven solutions.<br>
+🔹 My goal is to develop scalable and efficient systems, leveraging AI and backend technologies to create impactful applications.<br><br>
+Check out my projects and feel free to connect! 🚀</p>
 
 ###
 
-<h2 align="left">💡 About Me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">
-✨ I enjoy exploring new tech, playing strategy games, and geeking out over AI. 🚀  
-📚 Currently diving deeper into Machine Learning, Data Science, and MLOps.  
-🎯 Aspiring to push the boundaries of ML and Data Science to solve complex industry challenges.  
-🎲 Fun fact: I make my ML models work... eventually 🤖🔥.
-</p>
+<p align="left">✨ I enjoy exploring new tech, playing strategy games, and geeking out over AI 🚀.<br>
+📚 I'm currently learning Machine Learning, Data Science, and MLOps.<br>
+🎯 Goals: Aspiring to push the boundaries of ML and Data Science for solving complex industry challenges.<br>
+🎲 Fun fact: I make my ML models work... eventually 🤖🔥.</p>
 
 ###
 
-<h2 align="left">🛠️ I Code With</h2>
+<h2 align="left">I Code With</h2>
 
 ###
 
