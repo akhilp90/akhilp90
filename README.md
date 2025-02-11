@@ -31,8 +31,6 @@ Check out my projects and feel free to connect! 🚀</p>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" />
@@ -55,12 +53,13 @@ Check out my projects and feel free to connect! 🚀</p>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40" alt="Seaborn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Seaborn_logo.svg" height="40" alt="Seaborn" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" height="40" alt="Chart.js" />
+  <img src="https://www.chartjs.org/img/chartjs-logo.svg" height="40" alt="Chart.js" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" height="40" alt="Plotly" />
 </div>
+
 
 ###
 
