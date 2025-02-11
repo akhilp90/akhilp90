@@ -66,8 +66,8 @@ Check out my projects and feel free to connect! 🚀</p>
   <a href="mailto:patilakhi9090@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
   </a>
-  <span style="font-size: 18px; margin-left: 10px;">patilakhi9090@gmail.com</span>
 </div>
+
 
 ###
 
