@@ -63,10 +63,7 @@ Check out my projects and feel free to connect! 🚀</p>
   <a href="https://discord.com/users/akhileshpatil" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
   </a>
-  <a href="mailto:patilakhi9090@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" />
-</a>
-
+  
 </div>
 
 
